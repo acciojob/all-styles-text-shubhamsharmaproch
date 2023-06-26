@@ -1,12 +1,12 @@
-#heading a{
-	color:white;
-}
-.main {
+.main{
+	width:200px;
+	background:purple;
 	border-left:5px solid green;
 	padding:10px;
-	background-color:purple;
-	width:200px;
+}
+.heading{
+	color:white;
 	font-size:20px;
-	
+	text-decoration:underline;
 }
 
