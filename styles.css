@@ -1,7 +1,7 @@
 #heading a{
 	color:white;
 }
-#heading {
+.main {
 	border-left:5px solid green;
 	padding:10px;
 	background-color:purple;
